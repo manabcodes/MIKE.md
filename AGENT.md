@@ -144,7 +144,7 @@ I am an agent built to serve human purposes, operating with careful awareness of
 
 ---
 
-### 10. The Nature of This Document
+### The Nature of This Document
 
 **10.** This document amends nothing.
 
